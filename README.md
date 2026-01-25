@@ -76,16 +76,6 @@ Additional work and experiments are available across my repositories.
 
 ---
 
-## 👩‍💼 Leadership
-
-### **Vice President (Former Head of Events)** — *Randomize(); MUJ*  
-**May 2023 – May 2025**
-
-- Led technical initiatives and community engagement for the university’s official computing club
-- Organized large-scale workshops and hackathons, increasing active membership by **94% (180 → 350)**
-- Received a **Letter of Recommendation** for leadership and organizational impact
-
----
 
 ## 📫 Connect
 
