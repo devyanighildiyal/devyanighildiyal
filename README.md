@@ -1,98 +1,95 @@
-# 👋 Hi, I'm Devyani Ghildiyal  
+# 👋 Hi, I'm Devyani Ghildiyal
 
-🎓 **Final-year B.Tech student in Computer Science & Engineering** at **Manipal University Jaipur**  
-💡 Interested in **Machine Learning, Data Analytics, AI Systems, and Full-Stack Development**
+🎓 **Final-year B.Tech student in Computer Science & Engineering** — *Manipal University Jaipur*  
+💡 Focused on **Machine Learning, Data Analytics, AI-driven systems, and Full-Stack Engineering**
 
-I enjoy building **impact-driven software solutions** that combine data, intelligence, and scalable system design. My work spans machine learning, deep learning, analytics, and full-stack application development, with a strong focus on solving real-world problems.
-
----
-
-## 🚀 What I Do  
-
-- 🤖 Design and train **Machine Learning & Deep Learning models**
-- 📊 Analyze large-scale datasets and build **data-driven dashboards**
-- 💬 Develop **AI-powered chatbots** using NLP and system data
-- 🌐 Build **full-stack web applications** with optimized APIs
-- 🔐 Explore **cybersecurity and ethical hacking fundamentals**
+I build **production-oriented software systems** that combine machine learning, data analysis, and scalable backend design. My work spans end-to-end model development, data pipelines, and full-stack applications, with an emphasis on **real-world impact and system reliability**.
 
 ---
 
-## 💼 Experience  
+## 🚀 Areas of Work
+
+- 🤖 **Machine Learning & Deep Learning** — model design, training, and evaluation
+- 📊 **Data Analytics & Visualization** — KPI computation, dashboards, and insights
+- 💬 **AI Systems & Chatbots** — NLP-driven interfaces over structured system data
+- 🌐 **Full-Stack Development** — REST APIs, frontend integration, and performance optimization
+- 🔐 **Cybersecurity Fundamentals** — threat detection concepts and secure system design
+
+---
+
+## 💼 Experience
 
 ### **Data Analyst Intern** — *Powercon, Pune*  
-**May 2025 – July 2025**  
+**May 2025 – July 2025**
 
-- Analyzed **SCADA data and DLB reports** to compute wind turbine KPIs such as **PLF, MTTR, and MTBF**
-- Built **automated dashboards using Python and Power BI**, reducing manual reporting effort by **40%**
-- Contributed to an **AI-powered operator chatbot**, integrating NLP with operational signals to improve real-time monitoring and accelerate fault-resolution workflows
-
----
-
-## 🛠️ Selected Projects  
-
-Below are a few **representative projects** that highlight my experience across AI, data, cybersecurity, and full-stack development.  
-Additional projects and experiments can be found across my GitHub repositories.
-
-### 🔐 Cyber Shield  
-- Developed a **cybersecurity-focused web extension** leveraging machine learning to detect unsafe browsing patterns and enhance user protection
-
-### 🎭 Deepfake Detection System  
-- Built deepfake detection models including **XceptionNet (92% top-1 accuracy)** and a **Hybrid CNN–LSTM–Attention model (88%)** on the **Celeb-DF dataset**
-- Designed complete **training and evaluation pipelines** and integrated inference into a **scalable web application**
-- Received a **Letter of Recommendation** for strong technical contributions
-
-### 🧩 Helper MS (HRMS Platform)  
-- Selected for **Google Girl Hackathon 2025**, placing in the **top 1.4% of 58,000+ applicants**
-- Engineered a **full-stack HRMS platform** with modular architecture and optimized REST APIs
-- Improved resume-processing latency and automated onboarding workflows
-
-📌 *I actively work on multiple academic, personal, and experimental projects—this section highlights a subset of my most impactful work.*
+- Analyzed **SCADA and DLB operational datasets** to compute wind turbine KPIs including **PLF, MTTR, and MTBF**
+- Built **automated analytics dashboards using Python and Power BI**, reducing manual reporting effort by **~40%**
+- Contributed to an **AI-powered operator chatbot**, integrating NLP with turbine operational data to accelerate fault identification and support real-time monitoring workflows
 
 ---
 
-## 🧠 Skills  
+## 🛠️ Selected Projects
 
-**Programming Languages**  
-- Python, Java, C, SQL, HTML, CSS, JavaScript  
+A snapshot of projects demonstrating my work across **AI, data systems, cybersecurity, and full-stack engineering**.  
+Additional work and experiments are available across my repositories.
 
-**Machine Learning / Deep Learning**  
-- CNNs, LSTMs, Attention Models, Transformers, GANs  
+### 🔐 Cyber Shield
+- Developed a **cybersecurity-focused browser extension** leveraging machine learning to detect unsafe browsing behavior and enhance user protection
 
-**Tools & Frameworks**  
-- TensorFlow, Scikit-learn, NumPy, Pandas, React, Power BI, Git  
+### 🎭 Deepfake Detection System
+- Built deepfake detection models including **XceptionNet (92% top-1 accuracy)** and a **Hybrid CNN–LSTM–Attention architecture (88%)** on the **Celeb-DF dataset**
+- Designed complete **training, evaluation, and inference pipelines**, integrating models into a **scalable web-based application**
+- Received a **Letter of Recommendation** for technical depth and research contribution
+
+### 🧩 Helper MS — HRMS Platform
+- Selected for **Google Girl Hackathon 2025**, ranking in the **top 1.4% of 58,000+ applicants**
+- Engineered a **modular full-stack HRMS platform** with optimized REST APIs and backend services
+- Improved resume processing latency and automated candidate onboarding workflows
+
+---
+
+## 🧠 Technical Skills
+
+**Languages**  
+- Python, Java, C, SQL, JavaScript, HTML, CSS
+
+**Machine Learning & AI**  
+- CNNs, LSTMs, Attention Mechanisms, Transformers, GANs
+
+**Frameworks & Tools**  
+- TensorFlow, Scikit-learn, NumPy, Pandas, React, Power BI, Git
 
 **Core Competencies**  
 - Data Structures & Algorithms  
-- Object-Oriented Programming  
-- REST APIs & Backend Systems  
+- Object-Oriented Design  
+- RESTful APIs & Backend Systems  
 - Data Pipelines & Model Deployment  
-- Data Analysis & Visualization  
+- Analytical Reporting & Visualization  
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements
 
-- 🥈 **2nd Place**, Hack-O-Mania (IIT Ropar), among **150+ teams**
+- 🥈 **2nd Place**, Hack-O-Mania (IIT Ropar) — **150+ teams**
 - 🏅 **Student Excellence Award**, Manipal University Jaipur
 - 🎓 **Academic Excellence Award**, Delhi Public School RK Puram
 
 ---
 
-## 👩‍💼 Leadership  
+## 👩‍💼 Leadership
 
 ### **Vice President (Former Head of Events)** — *Randomize(); MUJ*  
-**May 2023 – May 2025**  
+**May 2023 – May 2025**
 
-- Led technical initiatives and community growth for the university’s official computing club
-- Organized workshops and hackathons, increasing member engagement by **94% (180 → 350 members)**
-- Received a **Letter of Recommendation** for leadership and contributions
+- Led technical initiatives and community engagement for the university’s official computing club
+- Organized large-scale workshops and hackathons, increasing active membership by **94% (180 → 350)**
+- Received a **Letter of Recommendation** for leadership and organizational impact
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect
 
 - 📧 **Email:** devyanighildiyal07@gmail.com  
-- 💼 **LinkedIn:** inkedin.com/in/devyani-ghildiyal-804948223/   
+- 💼 **LinkedIn:** https://linkedin.com/in/devyani-ghildiyal-804948223
 
-I’m open to **internships, research opportunities, collaborations, and impactful projects**.  
-Let’s build something meaningful 🚀  
+I’m open to **internships, research roles, and collaborative projects** focused on building intelligent, scalable systems.
