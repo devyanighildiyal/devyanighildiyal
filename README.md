@@ -33,6 +33,11 @@ I build **production-oriented software systems** that combine machine learning, 
 A snapshot of projects demonstrating my work across **AI, data systems, cybersecurity, and full-stack engineering**.  
 Additional work and experiments are available across my repositories.
 
+### 🔩Industrial Surface Defect Detection(Research Paper in Progress)
+- Developed and evaluated deep learning models (ResNet18, MobileNetV2, MobileViT, Swin-Tiny) for industrial surface defect detection using PyTorch, achieving up to 98-100% accuracy and 82–276 FPS through transfer learning, cosine annealing scheduling, and stratified data pipelines.
+- Designed DualPath-AFNet, a lightweight hybrid CNN-Transformer architecture (3.58M parameters) with adaptive feature fusion, achieving 89.26% accuracy at 131 FPS while enabling per-class defect analysis forreal-time industrial inspection.
+
+
 ### 🔐 Cyber Shield
 - Developed a **cybersecurity-focused browser extension** leveraging machine learning to detect unsafe browsing behavior and enhance user protection
 
