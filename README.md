@@ -77,7 +77,7 @@ Additional work and experiments are available across my repositories.
 ---
 
 
-## 📫 Connect
+## 📫 Links
 
 - 📧 **Email:** devyanighildiyal07@gmail.com
 - 👩‍💻 **LeetCode** https://leetcode.com/u/Devyani_Ghildiyal/
