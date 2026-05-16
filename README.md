@@ -77,10 +77,9 @@ Additional work and experiments are available across my repositories.
 ---
 
 
-## 📫 Links
+## 📫 Connect
 
 - 📧 **Email:** devyanighildiyal07@gmail.com
-- 👩‍💻 **LeetCode** https://leetcode.com/u/Devyani_Ghildiyal/
 - 💼 **LinkedIn:** https://linkedin.com/in/devyani-ghildiyal-804948223
 
 I’m open to **internships, research roles, and collaborative projects** focused on building intelligent, scalable systems.
