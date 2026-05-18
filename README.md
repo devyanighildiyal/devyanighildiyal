@@ -85,6 +85,6 @@ Additional work and experiments are available across my repositories.
 ## 📫 Connect
 
 - 📧 **Email:** devyanighildiyal07@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/devyani-ghildiyal-804948223
+- 💼 **LinkedIn:** https://www.linkedin.com/in/devyani-ghildiyal/
 
 I’m open to **internships, research roles, and collaborative projects** focused on building intelligent, scalable systems.
