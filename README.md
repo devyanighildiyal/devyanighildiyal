@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,30&height=220&section=header&text=Devyani%20Ghildiyal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ML%20%7C%20Deep%20Learning%20%7C%20Data%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,30&height=220&section=header&text=Devyani%20Ghildiyal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Data%20Analytics%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=M.Tech+%40+Indira+Gandhi+Delhi+Technical+University;Building+ML+systems+that+ship%2C+not+just+train;2nd+Place+%40+Hack-O-Mania%2C+IIT+Ropar;Google+Girl+Hackathon+2025+%E2%80%94+Top+1.4%25+of+58%2C000%2B;Open+to+internships+and+research+roles" alt="Typing SVG" />
@@ -9,6 +9,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=devyanighildiyal&label=Profile+Views&color=0e75b6&style=flat-square" alt="views" />
   <a href="https://www.linkedin.com/in/devyani-ghildiyal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://devyanighildiyal.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=flat-square&logo=googlechrome&logoColor=black" alt="portfolio" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Research-success?style=flat-square" alt="open to work" />
 </p>
 
@@ -112,8 +113,11 @@ I build **production-oriented software** that combines machine learning, data an
 
 <div align="center">
 
+<a href="mailto:devyanighildiyal07@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/devyani-ghildiyal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/heyItsDevyani"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://instagram.com/devyanighildiyal"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://devyanighildiyal.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
 
 *Open to internships, research roles and collaborative projects building intelligent, scalable systems.*
 
