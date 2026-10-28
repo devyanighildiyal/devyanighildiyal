@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,30&height=220&section=header&text=Devyani%20Ghildiyal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ML%20%7C%20Deep%20Learning%20%7C%20Data%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=Final-year+CSE+%40+Manipal+University+Jaipur;Building+ML+systems+that+ship%2C+not+just+train;2nd+Place+%40+Hack-O-Mania%2C+IIT+Ropar;Google+Girl+Hackathon+2025+%E2%80%94+Top+1.4%25+of+58%2C000%2B;Open+to+internships+and+research+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=M.Tech+%40+Indira+Gandhi+Delhi+Technical+University;Building+ML+systems+that+ship%2C+not+just+train;2nd+Place+%40+Hack-O-Mania%2C+IIT+Ropar;Google+Girl+Hackathon+2025+%E2%80%94+Top+1.4%25+of+58%2C000%2B;Open+to+internships+and+research+roles" alt="Typing SVG" />
 </a>
 
 <p>
@@ -20,11 +20,12 @@
 
 ```python
 class Devyani:
-    role     = "Final-year B.Tech CSE @ Manipal University Jaipur"
+    role     = "M.Tech (1st year) @ Indira Gandhi Delhi Technical University"
+    previously = "B.Tech CSE @ Manipal University Jaipur (graduated 2026)"
     focus    = ["Machine Learning", "Deep Learning", "Data Analytics", "Full-Stack"]
-    interests = ["Computer Vision", "Production ML", "NLP over real-time data"]
+    interests = ["Computer Vision", "Production ML", "Graph Algorithms", "NLP over real-time data"]
     based_in = "Delhi / NCR"
-    currently = "Writing a research paper on industrial defect detection"
+    currently = "Researching DFVS (NP-complete) and defect detection"
 
     def mission(self):
         return "Turn models into reliable, real-world systems."
@@ -91,6 +92,7 @@ I build **production-oriented software** that combines machine learning, data an
 
 ## 🔭 Currently Working On
 
+- 📝 Research paper on the **NP-complete Directed Feedback Vertex Set (DFVS)** problem
 - 📝 Research paper on **industrial surface defect detection** with DualPath-AFNet
 - 🤖 A **RAG-based financial question-answering system**
 - 🧠 Going deeper on production ML: evaluation, deployment, monitoring
