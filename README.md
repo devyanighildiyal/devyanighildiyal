@@ -62,7 +62,7 @@ I build **production-oriented software** that combines machine learning, data an
 
 <img src="https://streak-stats.demolab.com?user=devyanighildiyal&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devyanighildiyal&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
+<img src="https://ghchart.rshah.org/00F7FF/devyanighildiyal" alt="contribution chart" width="95%" />
 
 </div>
 
@@ -105,12 +105,6 @@ I build **production-oriented software** that combines machine learning, data an
 - 🌟 **Top 1.4%** of 58,000+ applicants, Google Girl Hackathon 2025
 - 🏅 **Student Excellence Award**, Manipal University Jaipur
 - 🎓 **Academic Excellence Award**, Delhi Public School RK Puram
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devyanighildiyal&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-
-</div>
 
 ---
 
