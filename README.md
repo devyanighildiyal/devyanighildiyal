@@ -85,7 +85,7 @@ I build **production-oriented software** that combines machine learning, data an
 | Project | What it does | Stack |
 |---|---|---|
 | 🔩 **Industrial Surface Defect Detection** *(paper in progress)* | Benchmarked ResNet18, MobileNetV2, MobileViT and Swin-Tiny (up to **98–100% accuracy**, **82–276 FPS**). Designed **DualPath-AFNet**, a 3.58M-param hybrid CNN-Transformer with adaptive feature fusion: **89.26% accuracy at 131 FPS** | `PyTorch` `Transfer Learning` `Cosine Annealing` |
-| 🎭 **Deepfake Detection System** | **XceptionNet (92% top-1)** and a **CNN-LSTM-Attention hybrid (88%)** on Celeb-DF, with full training, evaluation and inference pipelines behind a scalable web app. Earned a **Letter of Recommendation** | `Python` `Deep Learning` `Web App` |
+| 🎭 **FakeNet: Deepfake Detection System** | **XceptionNet (92% top-1)** and a **CNN-LSTM-Attention hybrid (88%)** on Celeb-DF, with full training, evaluation and inference pipelines behind a scalable web app. Earned a **Letter of Recommendation** | `Python` `Deep Learning` `Web App` |
 | 🧩 **Helper MS: HRMS Platform** | Modular full-stack HRMS built for **Google Girl Hackathon 2025** (top **1.4%** of 58,000+). Optimized REST APIs, faster resume processing, automated onboarding | `React` `REST APIs` `Backend` |
 | 🔐 **Cyber Shield** | Browser extension that uses ML to detect unsafe browsing behavior | `ML` `JavaScript` `Browser Extension` |
 
